@@ -1,0 +1,12 @@
+:host {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: #039;
+    font: 10px sans-serif;
+    color: #FFF;
+}
+
+:host[hidden] {
+    display: none;
+}
