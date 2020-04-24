@@ -4,7 +4,7 @@ Ready-to-use components in vanilla JavaScript.
 
 ## About
 
-Web components allow to create **natively** custom tags having their own template, style and behaviour.
+Web components allow to create *natively* custom tags having their own template, style and behaviour.
 The ability to customize, encapsulate in the Shadow DOM and reuse them makes it a powerful feature.  
 But it comes with two drawbacks: 
 * Every component require the same repetitive configuration
@@ -54,3 +54,11 @@ It returns a promise that allow to start an app once all templates are loaded, a
 ### `index.js`
 
 Entry point of a dummy application.
+
+
+## To do
+
+* Error handling
+    * `XXX.config` missing / incomplete / invalid / incorrect
+    * separate files not found
+    * `AutoloadingComponent` directly instanciated
