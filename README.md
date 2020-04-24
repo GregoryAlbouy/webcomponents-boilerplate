@@ -47,7 +47,7 @@ It provides its derived classes with a loadTemplate() function that loads separa
 
 This file has two purposes:
 * Define the components
-* Preaload their template in parallel
+* Preload their template in parallel
 
 It returns a promise that allow to start an app once all templates are loaded, as showed in the `index.js` file.
 

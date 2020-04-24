@@ -1,7 +1,7 @@
 /**
  * This file has two purposes:
  * - Define the components
- * - Preaload their template in parallel
+ * - Preload their template in parallel
  * 
  * It returns a promise that allow to start an app once all templates are loaded
  */
