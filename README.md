@@ -20,7 +20,6 @@ The present boilerplate is a pattern I created that intent to solve these issues
 
 That's it, the component is ready to use! You can now fill HTML and CSS files and see the result.
 
-
 ## Details
 
 ### component directory
